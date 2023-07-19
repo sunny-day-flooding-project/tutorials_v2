@@ -19,4 +19,4 @@ This framework overcomes limitations of existing instrumentation by:
 
 ## Get Started 
 
-Head on over to [**the V2 Wiki](https://github.com/sunny-day-flooding-project/tutorials_v2/wiki) to view our tutorials.  
+Head on over to [**the V2 Wiki**](https://github.com/sunny-day-flooding-project/tutorials_v2/wiki) to view our tutorials.  
